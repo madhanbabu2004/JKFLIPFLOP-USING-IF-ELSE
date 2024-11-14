@@ -49,8 +49,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **PROGRAM**
 ```
 Develpoed by
-NAME:Prsana v
-REG no:212223040150
+NAME:MADHAN BABU P
+REG no:212222230075
 ```
 ```
 module e7(j, k, clk, rst, q);
